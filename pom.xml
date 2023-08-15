@@ -82,7 +82,7 @@
 		<java.version>1.8</java.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
-		<maven.dependency.version>3.6.3</maven.dependency.version>
+		<maven.dependency.version>3.8.1</maven.dependency.version>
 
 		<!-- The lastReleasedVersion is the version displayed in the site. The default value is the project version, which is Ok 
 			when actually doing a release. It can also be defined on the command line with -DlastReleasedVersion=version when building 
